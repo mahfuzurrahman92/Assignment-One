@@ -17,3 +17,34 @@ nav ul li {
     text-align: center;
     padding: 5px 10px;
 }
+/* banner */
+.banner{
+    padding: auto;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-image: url(../assets/Hero-bg.png);
+    background-size: cover;
+}
+/* banner content */
+.ban-con{
+    padding: 5px 20px;
+    /* width: 100px; */
+    text-align: center;
+    margin:5px 100px;
+}
+/* banner image */
+.ban-img{
+    margin: auto;
+    margin-top: 10px;
+}
+/* banner button */
+.btn-s{
+    color: white;
+    background-color: rgb(21, 21, 82);
+}
+.ban-btn{
+    margin: auto;
+    border-radius: 2px;
+}
