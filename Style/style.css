@@ -101,6 +101,9 @@ nav ul li {
 .simple h3{
     text-align: center;
 }
+.simple{
+    margin: 5px 30px 10px 30px;
+}
 .ds{
     /* max-width: 300px; */
     text-align: center;
@@ -109,4 +112,34 @@ nav ul li {
 /* video */
 .container{
     margin: 20px 50px 10px 150px;
+}
+/* Target */
+.target{
+    margin: 10px 50px 10px 50px;
+    justify-content: space-evenly;
+    display: flex;
+}
+.target img{
+    height: 30px;
+}
+.tar1 {
+    background-color: beige;
+    padding: 20px 20px 10px 20px;
+    border-radius: 5px;
+    margin: 2px 5px 5px 5px;
+    /* border:  solid; */
+}
+.tar2 {
+    background-color: azure;
+    padding: 20px 20px 10px 20px;
+    border-radius: 5px;
+    margin: 2px 5px 5px 5px;
+    /* border:  solid; */
+}
+.tar3 {
+    background-color: bisque;
+    padding: 20px 20px 10px 20px;
+    border-radius: 5px;
+    margin: 2px 5px 5px 5px;
+    
 }
