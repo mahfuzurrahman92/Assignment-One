@@ -11,6 +11,7 @@ nav ul li {
 }
 /* Common style */
 .btn-p{
+    margin-top: 5px;
     border-radius: 5px;
     border: 1px solid gray;
     background-color: white;
@@ -57,4 +58,41 @@ nav ul li {
 .ban-btn{
     margin: auto;
     border-radius: 2px;
+}
+/* development section */
+#development{
+    padding: auto;
+    margin: 10px ;
+    background-color: aliceblue;
+}
+/* development content */
+.dev-1 h3{
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+.dev-1{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.d1{
+    text-align: center;
+}
+
+/* dev-2  */
+.dev-2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+}
+.dev-2-con{
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
 }
