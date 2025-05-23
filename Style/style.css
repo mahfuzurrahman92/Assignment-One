@@ -17,7 +17,17 @@ nav ul li {
     text-align: center;
     padding: 5px 10px;
 }
+.g2{
+    color: gray;
+}
+.g3{
+    color: rgb(62, 58, 58);
+}
 /* banner */
+#banner{
+    margin: 5px;
+    box-shadow: inset;
+}
 .banner{
     padding: auto;
     height: 250px;
@@ -42,7 +52,7 @@ nav ul li {
 /* banner button */
 .btn-s{
     color: white;
-    background-color: rgb(21, 21, 82);
+    background-color: rgb(1, 1, 15);
 }
 .ban-btn{
     margin: auto;
